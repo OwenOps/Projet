@@ -11,7 +11,6 @@ C’est pourquoi notre programme a plusieurs fichiers.
 
 Si vous utilisez ce projet sur Clion, vous risquez d'avoir des problèmes concernant le dictionnaire.
 
-# Projet C++
 # EN
 
 This project is a mini game that makes play, at least two players and players can be either human or robot. The goal is to enter an alphabetical letter, however players must avoid completing an existing word otherwise they will score points. The first person who reaches the maximum score loses the game. 
