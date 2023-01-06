@@ -5,7 +5,7 @@
 /*                                                     :::        :::   :::        :::         ++         */
 /*    By: Owen and Paul                                :::++++++++::    :::        :::         ++         */
 /*                                                     :::++++++++::    :::        :::         ++         */
-/*  Created: 2022/11/24 by Rebeller with Perigault     :::        :::   :::        :::         ++         */
+/*  Created: 2022/11/24                                :::        :::   :::        :::         ++         */
 /*                                                     :::        :::   :::        :::         ::         */
 /*                                                     :::++++++++::    :::++++++++:::         ::         */
 /*                                                                                                        */
@@ -13,7 +13,7 @@
 /**
  * @file Deroulement_partie.h
  * Projet SAE-S1.02 Comparaison d’approches algorithmiques
- * @authors Owen Rebeller et Paul Perigault
+ * @authors Owen et Paul
  * Toute les fonctions permettant de realiser le jeu.
  */
 #ifndef PROJET_FINAL_DEROULEMENT_PARTIE_H

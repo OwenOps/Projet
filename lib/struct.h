@@ -1,11 +1,11 @@
 /* ****************************************************************************************************** */
 /*                                                                                                        */
 /*                                                     :::++++++++::    :::        :::   :::+++::+++:::   */
-/*    struct.h                                         :::        :::   :::        :::         ::         */
+/*    Partie_fichier.h                                 :::        :::   :::        :::         ::         */
 /*                                                     :::        :::   :::        :::         ++         */
 /*    By: Owen and Paul                                :::++++++++::    :::        :::         ++         */
 /*                                                     :::++++++++::    :::        :::         ++         */
-/*  Created: 2022/11/24 by Rebeller with Perigault     :::        :::   :::        :::         ++         */
+/*  Created: 2022/11/24                                :::        :::   :::        :::         ++         */
 /*                                                     :::        :::   :::        :::         ::         */
 /*                                                     :::++++++++::    :::++++++++:::         ::         */
 /*                                                                                                        */
@@ -14,7 +14,7 @@
 /**
  * @file struct.h
  * Projet SAE-S1.02 Comparaison d’approches algorithmiques
- * @authors Owen Rebeller et Paul Perigault
+ * @authors Owen et Paul
  * Nos structures pour realiser notre projet
  */
 

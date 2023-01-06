@@ -1,11 +1,11 @@
 /* ****************************************************************************************************** */
 /*                                                                                                        */
 /*                                                     :::++++++++::    :::        :::   :::+++::+++:::   */
-/*    Partie_joueur.h                                  :::        :::   :::        :::         ::         */
+/*    Partie_fichier.h                                 :::        :::   :::        :::         ::         */
 /*                                                     :::        :::   :::        :::         ++         */
 /*    By: Owen and Paul                                :::++++++++::    :::        :::         ++         */
 /*                                                     :::++++++++::    :::        :::         ++         */
-/*  Created: 2022/11/24 by Rebeller with Perigault     :::        :::   :::        :::         ++         */
+/*  Created: 2022/11/24                                :::        :::   :::        :::         ++         */
 /*                                                     :::        :::   :::        :::         ::         */
 /*                                                     :::++++++++::    :::++++++++:::         ::         */
 /*                                                                                                        */
@@ -13,7 +13,7 @@
 /**
  * @file Partie_joueur.h
  * Projet SAE-S1.02 Comparaison d’approches algorithmiques
- * @authors Owen Rebeller et Paul Perigault
+ * @authors Owen et Paul
  * Toute les fonctions permettant d'avoir des joueurs pour notre partie.
  */
 #ifndef PROJET_FINAL_PARTIE_JOUEUR_H

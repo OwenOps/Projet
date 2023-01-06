@@ -1,11 +1,11 @@
 /* ****************************************************************************************************** */
 /*                                                                                                        */
 /*                                                     :::++++++++::    :::        :::   :::+++::+++:::   */
-/*    quart_de_singe.h                                 :::        :::   :::        :::         ::         */
+/*    Partie_fichier.h                                 :::        :::   :::        :::         ::         */
 /*                                                     :::        :::   :::        :::         ++         */
 /*    By: Owen and Paul                                :::++++++++::    :::        :::         ++         */
 /*                                                     :::++++++++::    :::        :::         ++         */
-/*  Created: 2022/11/24 by Rebeller with Perigault     :::        :::   :::        :::         ++         */
+/*  Created: 2022/11/24                                :::        :::   :::        :::         ++         */
 /*                                                     :::        :::   :::        :::         ::         */
 /*                                                     :::++++++++::    :::++++++++:::         ::         */
 /*                                                                                                        */
@@ -13,7 +13,7 @@
 /**
  * @file quart_de_singe.h
  * Projet SAE-S1.02 Comparaison d’approches algorithmiques
- * @authors Owen Rebeller et Paul Perigault
+ * @authors Owen et Paul
  * Les fonctions qui commencent et termine notre jeu
  */
 #ifndef PROJET_FINAL_QUART_DE_SINGE_H
